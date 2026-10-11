@@ -26,4 +26,4 @@ Get the latest version from the [Releases](../../releases) page.
 
 ## Website
 
-[oxyn.ink](https://oxyn.ink)
+[oxyn.site](https://oxyn.site)
