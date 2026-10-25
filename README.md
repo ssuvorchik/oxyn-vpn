@@ -52,3 +52,4 @@ Compare the hash printed below each release against the file you downloaded.
 - Website: [oxyn.site](https://oxyn.site)
 - Privacy Policy: [oxyn.site/privacy](https://oxyn.site/privacy)
 - Support: [t.me/oxyn_support](https://t.me/oxyn_support)
+- **Tor mirror:** `oxyn6nixejyfceylvdymsnajyo4bcbtbegbyahh54jr6gswncm2pdtyd.onion`
