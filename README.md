@@ -13,6 +13,7 @@
   <a href="https://github.com/ssuvorchik/oxyn-vpn/releases/latest"><img src="https://img.shields.io/github/v/release/ssuvorchik/oxyn-vpn?label=latest&color=2dd4bf"></a>
   <a href="https://github.com/ssuvorchik/oxyn-vpn/releases"><img src="https://img.shields.io/github/downloads/ssuvorchik/oxyn-vpn/total?color=2dd4bf"></a>
   <a href="https://oxyn.site/en"><img src="https://img.shields.io/badge/website-oxyn.site-2dd4bf"></a>
+  <a href="https://oxyn-vpn.en.uptodown.com/android"><img src="https://img.shields.io/badge/Get%20it%20on-Uptodown-2dd4bf"></a>
 </p>
 
 ## Download
@@ -20,7 +21,7 @@
 | Platform | Download |
 |---|---|
 | **Windows** 10/11 | [oxyn-vpn-windows-setup.exe](https://github.com/ssuvorchik/oxyn-vpn/releases/latest/download/oxyn-vpn-windows-setup.exe) |
-| **Android** 7+ | [oxyn-vpn-android.apk](https://github.com/ssuvorchik/oxyn-vpn/releases/latest/download/oxyn-vpn-android.apk) |
+| **Android** 7+ | [oxyn-vpn-android.apk](https://github.com/ssuvorchik/oxyn-vpn/releases/latest/download/oxyn-vpn-android.apk) · also on [Uptodown](https://oxyn-vpn.en.uptodown.com/android) |
 | **Linux** x64 | [oxyn-vpn-linux.bin](https://github.com/ssuvorchik/oxyn-vpn/releases/latest/download/oxyn-vpn-linux.bin) — then `chmod +x oxyn-vpn-linux.bin` |
 | iPhone, iPad, Mac | via the [Happ](https://oxyn.site/en/apps) client with your Oxyn subscription link |
 
