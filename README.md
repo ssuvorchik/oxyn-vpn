@@ -34,7 +34,7 @@ so in many countries they connect for a minute — or not at all. → [Why VPNs 
 
 - **Own protocol** — built on the Noise framework (Noise_IK), not OpenVPN or WireGuard.
 - **Looks like HTTPS** — runs over TCP 443 with a real-browser TLS fingerprint, designed to blend in with normal web traffic.
-- **Kill switch** — if the tunnel drops, traffic never leaks outside the VPN.
+- **Kill switch** — if the tunnel drops, traffic never leaks outside the VPN — on any network, including a new Wi‑Fi or hotspot. On Windows, if the app closes unexpectedly it restarts itself and restores protection within seconds.
 - **Leak protection** — DNS, IPv6 and WebRTC leaks closed.
 - **No VPN activity logs** — we don't record sites you visit, traffic or DNS queries. Details: [Privacy Policy](https://oxyn.site/privacy).
 - **Just an email** — no phone number. Pay by card, crypto (USDT, BNB…) or Telegram Stars.
