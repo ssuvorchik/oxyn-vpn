@@ -52,7 +52,7 @@ so in many countries they connect for a minute — or not at all. → [Why VPNs 
 **Android — "unknown sources":** when you open the APK, tap **Settings** on the warning, enable
 **Allow from this source** for your browser/file manager, then install again.
 
-**Windows — SmartScreen:** the installer isn't code-signed yet. Click **More info → Run anyway**.
+**Windows — SmartScreen:** the installer isn't code-signed yet. Click **More info → Run anyway**. After installation Oxyn starts from its shortcut without an admin prompt.
 
 **Verify the download (SHA-256):** each release lists hashes. Compare with
 `certutil -hashfile <file> SHA256` (Windows) or `sha256sum <file>` (Linux/macOS).
